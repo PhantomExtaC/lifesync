@@ -1,6 +1,6 @@
 # lifesync
 
-A new Flutter project.
+A new Flutter project that tracks your life.
 
 ## Getting Started
 
