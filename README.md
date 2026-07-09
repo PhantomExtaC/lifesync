@@ -18,15 +18,6 @@
 
 ---
 
-## 📱 Screenshots
-
-*(Replace these placeholder links with actual screenshots of your app once it is finished!)*
-
-| Dashboard | Daily Planner | Quick Log Sheet |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500.png?text=Dashboard+View" width="200"> | <img src="https://via.placeholder.com/250x500.png?text=Planner+View" width="200"> | <img src="https://via.placeholder.com/250x500.png?text=Quick+Log" width="200"> |
-
----
 
 ## 🛠️ Tech Stack & Architecture
 
